@@ -1,5 +1,4 @@
-# Project Showcase: In-Depth Evaluation of eBay Search Ads ROI via Causal Inference Framework
-
+#  In-Depth Evaluation of eBay Search Ads ROI Based on DiD Analysis
 ### 1. Business Context & Core Questions
 In Search Engine Marketing (SEM), organizations frequently face a classic attribution dilemma: **Do paid search ads drive truly incremental sales, or do they merely cannibalize organic search traffic that would have occurred anyway (the substitution effect)?**
 To precisely evaluate the true Return on Investment (ROI) of search ads, eBay conducted an A/B experiment across selected Designated Market Areas (DMAs) in the US. Search advertising was completely paused in the treatment DMAs, while the control DMAs maintained their regular ad campaigns. This project leverages advanced causal inference models to isolate natural market fluctuations and quantify the true business impact of pausing these ads.
